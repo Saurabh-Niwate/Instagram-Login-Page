@@ -28,8 +28,6 @@ No installation is required. Simply open the `index.html` file in your web brows
 
 ![Instagram Login Page Screenshot](/Image%20src/landing%20page.png)
 
-*(Replace `./screenshot.png` with `./images/screenshot.png` if you placed the image in an `images` folder.)*
-
 ### Acknowledgments
 
 This project is created for learning purposes and is not affiliated with or endorsed by Instagram.
